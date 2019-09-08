@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "**What Is Data Science?**"
-date:       2019-09-08 13:38:49 +0000
+date:       2019-09-08 09:38:49 -0400
 permalink:  what_is_data_science
 ---
 
