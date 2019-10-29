@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Graphing Candlesticks Using Plotly"
-date:       2019-10-29 03:00:37 +0000
+date:       2019-10-28 23:00:38 -0400
 permalink:  graphing_candlesticks_using_plotly
 ---
 
