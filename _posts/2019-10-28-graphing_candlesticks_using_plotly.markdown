@@ -92,6 +92,8 @@ sleep_max = 5
 
 
 def get_chart_info(url):
+    """Returns candlestick chart using historical data from Yahoo Finance.
+        URL is required. Displays text on hoverover and slider"""
     response = requests.get(url, headers=headers)
     soup = bs4.BeautifulSoup(response.content, 'html.parser')
     data = soup.find('table', attrs={"class":'W(100%) M(0)'})
