@@ -10,8 +10,8 @@ In this post, I will share a tutorial on how to graph candlesticks for financial
 
 One of my hobbies is trading, so I spend a lot of time going back and forth between charts doing technical analysis. Here are a few references if you would like to repeat the steps I took.
 
-* I used one of Plotly's Graph Objects called candlestick traces, here is a link to the documenttion: https://plot.ly/python/reference/#candlestick
-* I also downloaded the BTC-USD dataset from Yahoo Finance here: https://finance.yahoo.com/quote/BTC-USD/history?p=BTC-USD
+* I used one of Plotly's Graph Objects called candlestick traces, here is a link to the [documentation](https://plot.ly/python/reference/#candlestick).
+* I also downloaded the BTC-USD dataset from Yahoo Finance [here](https://finance.yahoo.com/quote/BTC-USD/history?p=BTC-USD).
 
 Here are the steps I took:
 
