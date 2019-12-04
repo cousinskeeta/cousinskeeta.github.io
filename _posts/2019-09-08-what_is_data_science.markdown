@@ -5,7 +5,7 @@ date:       2019-09-08 09:38:49 -0400
 permalink:  what_is_data_science
 ---
 
-If you did not know, we are transitioning from the information age to the creative age due to the pure amount of information available and the exponential amount of information being created. I assume you have already heard of the term "Big data". When dealing with big data, companies usually have big problems and customers or investors may wonder why this happened, or why that is happening. With so many web servers, databases, APIs, etc., where do we start? 
+We are transitioning from the information age to the creative age due to the pure amount of data available and the exponential amount of information being created every second. I assume you have already heard of the term "Big data". When dealing with big data, companies usually have big problems and customers or investors may wonder why this happened, or why that is happening. With so many web servers, databases, APIs, etc., where do we start? 
 
 In this post, I will: 
 1. Answer the question, "What is data science?"
