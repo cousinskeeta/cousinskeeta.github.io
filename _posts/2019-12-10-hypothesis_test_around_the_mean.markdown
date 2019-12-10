@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Hypothesis Test Around the Mean"
-date:       2019-12-10 06:01:42 +0000
+date:       2019-12-10 01:01:43 -0500
 permalink:  hypothesis_test_around_the_mean
 ---
 
@@ -46,4 +46,6 @@ In some cases, we will have more than two samples that correspond to different l
 * If you have **two variables** where samples correspond to different levels, and cells are  **not replicated** , samples have **normal** distribution with **unknown** variance, the suggested test is a **Randomized Block Design**
 * If you have **two variables** where samples correspond to different levels, and cells are  **not replicated** , samples have **non-normal** distribution with **known** variance, the suggested test is a **Friedman's Test **.
 
+
+This was a brief helper post on Statistical Testing. I hope to provide more guidance if there is any interest. Feel free to drop a line, follow my blog, and stay in touch. 
 
